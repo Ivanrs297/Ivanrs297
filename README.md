@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**Ivanrs297/Ivanrs297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 I am a Machine Learning Engineer with a passion for solving complex problems using cutting-edge technology. With a background in computer science and mathematics, I have experience in both industry and academia, working on projects ranging from natural language processing to computer vision.
 
-Here are some ideas to get you started:
+⚡ I have a strong understanding of machine learning algorithms and techniques, including deep learning, neural networks, and reinforcement learning. I am also proficient in programming languages such as Python, Tensorflow, PyTorch and Keras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 I am always looking to learn and grow in the field, and am excited to be a part of the rapidly advancing field of artificial intelligence.
+
+🔭 In my free time, I enjoy reading research papers, experimenting with new technologies, and participating in machine learning competitions.
+
+Please visit my GitHub profile for more information about my projects and experience.
+
+### Skills 🌱
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Python
+- Tensorflow
+- PyTorch
+- Keras
+- Data Analysis and Visualization
+- Git and version control
+
+
+📫 Please feel free to reach out to me if you have any questions or opportunities!
