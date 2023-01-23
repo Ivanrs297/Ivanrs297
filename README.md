@@ -8,19 +8,4 @@
 
 🔭 In my free time, I enjoy reading research papers, experimenting with new technologies, and participating in machine learning competitions.
 
-Please visit my GitHub profile for more information about my projects and experience.
-
-### Skills 🌱
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Python
-- Tensorflow
-- PyTorch
-- Keras
-- Data Analysis and Visualization
-- Git and version control
-
-
 📫 Please feel free to reach out to me if you have any questions or opportunities!
